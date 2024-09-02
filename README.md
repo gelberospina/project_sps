@@ -12,7 +12,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/andrettebc/petStore
+  git clone https://github.com/gelberospina/project_sps
 ```
 
 Go to project project directory
