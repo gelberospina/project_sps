@@ -1,0 +1,19 @@
+plugins{
+    id 'java'
+}
+
+group 'com.company'
+version '1.0.0'
+
+repositories {
+    mavenCentral()
+}
+
+sourceSets {
+    test {
+        resources {
+            srcDir file('src/test/java')
+            exclude '**/*.java'
+        }
+    }
+}

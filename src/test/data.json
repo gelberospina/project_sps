@@ -1,0 +1,94 @@
+{
+"url" : "http://localhost:8080/api/v3/user/",
+"user1Payload" : {
+      "username": "PetStoreUser1",
+      "firstName": "Maria",
+      "lastName": "Martinez",
+      "email": "maria.martinez@testuserfunction.com",
+      "password": "password123",
+      "phone": "3107775522",
+      "userStatus": 0
+    },
+
+"user2Payload" : {
+      "username": "PetStoreUser2",
+      "firstName": "Pablo",
+      "lastName": "Pelaes",
+      "email": "pablo.pelaes@testuserfunction.com",
+      "password": "password123",
+      "phone": "3107775522",
+      "userStatus": 0
+    },
+
+"user3Payload" : {
+      "username": "PetStoreAdmin3",
+      "firstName": "Eduardo",
+      "lastName": "Erazo",
+      "email": "eduardo.erazo@testuserfunction.com",
+      "password": "password123",
+      "phone": "3107775522",
+      "userStatus": 0
+    },
+
+"user4Payload" : {
+      "username": "PetStoreSupply4",
+      "firstName": "Gabriel",
+      "lastName": "Gonzalez",
+      "email": "gabriel.gonzalez@testuserfunction.com",
+      "password": "password123",
+      "phone": "3107775522",
+      "userStatus": 0
+    },
+"user1Upload" : {
+      "username": "PetStoreUser1",
+      "firstName": "Maria",
+      "lastName": "Martinez",
+      "email": "maria.martinez@testuserfunction.com",
+      "password": "password123",
+      "phone": "3107775522",
+      "userStatus": 0
+    },
+"user4Upload" : {
+      "username": "PetStoreSupply4",
+      "firstName": "Gabriel",
+      "lastName": "Gonzalez",
+      "email": "gabriel.gonzalez@testuserfunction.com",
+      "password": "password123",
+      "phone": "3107775522",
+      "userStatus": 0
+    },
+
+"paramsLogin1" : {
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "username": "PetStoreUser1",
+    "password": "password123"
+  },
+
+"paramsLogin2" : {
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "username": "PetStoreUser2",
+    "password": "password123"
+  },
+
+"paramsLogin3" : {
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "username": "PetStoreAdmin3",
+    "password": "password123"
+  },
+  
+"params" : {
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+"dataInput" : {
+    "username": "PetStoreUser1",
+    "password": "password123"
+  }
+  }
